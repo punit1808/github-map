@@ -3,7 +3,7 @@ name: Build And Push GitHub MCP
 on:
   push:
     branches:
-      - main
+      - prodstable
 
 jobs:
   build:
